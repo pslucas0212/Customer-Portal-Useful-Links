@@ -7,3 +7,7 @@
 - [Red Hat Customer Portal FAQ](https://access.redhat.com/articles/33844)
 - [All Red Hat products and documentation A-Z](https://access.redhat.com/products)
 
+## Support Cases
+- [How do I open and manage a support case on the Customer Portal?](https://access.redhat.com/articles/38363#attach)
+- [Red Hat Support Case Escalation](https://access.redhat.com/support/escalation)  
+
