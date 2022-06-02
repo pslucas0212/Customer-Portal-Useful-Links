@@ -1,2 +1,3 @@
-# Customer-Portal-Useful-Links
-Red Hat Customer Portal
+# Red Hat Customer Portal
+
+[Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
