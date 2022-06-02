@@ -6,6 +6,8 @@
 - [Red Hat Help](https://access.redhat.com/help)
 - [Red Hat Customer Portal FAQ](https://access.redhat.com/articles/33844)
 - [All Red Hat products and documentation A-Z](https://access.redhat.com/products)
+- [Product Downloads A-Z](https://access.redhat.com/downloads/)
+- [Product Security Center](https://access.redhat.com/security/)
 
 ## Support Cases
 - [How do I open and manage a support case on the Customer Portal?](https://access.redhat.com/articles/38363#attach)
