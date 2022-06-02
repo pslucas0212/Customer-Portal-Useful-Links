@@ -11,3 +11,6 @@
 - [How do I open and manage a support case on the Customer Portal?](https://access.redhat.com/articles/38363#attach)
 - [Red Hat Support Case Escalation](https://access.redhat.com/support/escalation)  
 
+### Registration and Subscription
+- [How to register and subscribe a system to the Red Hat Customer Portal using Red Hat Subscription-Manager](https://access.redhat.com/solutions/253273)
+
