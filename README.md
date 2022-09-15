@@ -8,6 +8,10 @@
 - [All Red Hat products and documentation A-Z](https://access.redhat.com/products)
 - [Product Downloads A-Z](https://access.redhat.com/downloads/)
 - [Product Security Center](https://access.redhat.com/security/)
+- [How to create and manage users](https://access.redhat.com/start/how-to-create-and-manage-users)
+- [Common User Management Questions](https://access.redhat.com/customer-service-users)
+
+
 
 ## Support Cases
 - [How do I open and manage a support case on the Customer Portal?](https://access.redhat.com/articles/38363#attach)
