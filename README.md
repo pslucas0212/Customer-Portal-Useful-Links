@@ -19,4 +19,5 @@
 
 ### Registration and Subscription
 - [How to register and subscribe a system to the Red Hat Customer Portal using Red Hat Subscription-Manager](https://access.redhat.com/solutions/253273)
+- [Transition of Red Hat's subscription services to console.redhat.com](https://access.redhat.com/articles/transition_of_subscription_services_to_the_hybrid_cloud_console)
 
