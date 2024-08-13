@@ -12,7 +12,7 @@ FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."]
 - [Product Security Center](https://access.redhat.com/security/)
 - [How to create and manage users](https://access.redhat.com/start/how-to-create-and-manage-users)
 - [Common User Management Questions](https://access.redhat.com/customer-service-users)
-
+- [How to check the list of repositories provided by the subscription on the customer portal](https://access.redhat.com/solutions/6776171)
 
 
 ## Support Cases
