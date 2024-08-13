@@ -2,6 +2,8 @@
 
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
+FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."](https://github.com/pslucas0212/Red-Hat-Software-Subscription-Policy)
+
 ## Customer Portal
 - [Red Hat Help](https://access.redhat.com/help)
 - [Red Hat Customer Portal FAQ](https://access.redhat.com/articles/33844)
